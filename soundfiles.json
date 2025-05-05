@@ -1,0 +1,8 @@
+{
+    "sound0": ["at_atin_m.wav", 16, "mono", 44100],
+    "sound1": ["pirate4.wav", 16, "mono", 22257],
+    "sound2": ["DOORBELL2.wav", 16, "mono", 11025],
+    "sound3": ["whip2.wav", 16, "mono", 11000],
+    "sound4": ["ILLGET.WAV", 16, "mono", 11025],
+    "sound5": ["ozhasspoken.wav", 16, "mono", 22050]
+}
